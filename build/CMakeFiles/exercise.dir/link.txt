@@ -1,2 +1,0 @@
-/usr/sbin/ar qc libexercise.a CMakeFiles/exercise.dir/src/exercise.cpp.o
-/usr/sbin/ranlib libexercise.a

@@ -1,4 +1,0 @@
-/home/archmelik/dev/Code/projects/OurLordAndSavior/build/CMakeFiles/exercise.dir
-/home/archmelik/dev/Code/projects/OurLordAndSavior/build/CMakeFiles/olas.dir
-/home/archmelik/dev/Code/projects/OurLordAndSavior/build/CMakeFiles/edit_cache.dir
-/home/archmelik/dev/Code/projects/OurLordAndSavior/build/CMakeFiles/rebuild_cache.dir
