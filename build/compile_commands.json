@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/archmelik/dev/Code/projects/OurLordAndSavior/build",
+  "command": "/usr/sbin/g++  -I/home/archmelik/dev/Code/projects/OurLordAndSavior/include -g -std=gnu++17 -o CMakeFiles/exercise.dir/src/exercise.cpp.o -c /home/archmelik/dev/Code/projects/OurLordAndSavior/src/exercise.cpp",
+  "file": "/home/archmelik/dev/Code/projects/OurLordAndSavior/src/exercise.cpp",
+  "output": "CMakeFiles/exercise.dir/src/exercise.cpp.o"
+},
+{
+  "directory": "/home/archmelik/dev/Code/projects/OurLordAndSavior/build",
+  "command": "/usr/sbin/g++  -I/home/archmelik/dev/Code/projects/OurLordAndSavior/include -g -std=gnu++17 -o CMakeFiles/olas.dir/src/main.cpp.o -c /home/archmelik/dev/Code/projects/OurLordAndSavior/src/main.cpp",
+  "file": "/home/archmelik/dev/Code/projects/OurLordAndSavior/src/main.cpp",
+  "output": "CMakeFiles/olas.dir/src/main.cpp.o"
+}
+]

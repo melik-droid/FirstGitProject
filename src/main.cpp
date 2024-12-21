@@ -34,7 +34,7 @@ int main(void){
     myPrinter.Print("Hello, my name is Saldina. I am a Software Engineer.");
     myPrinter.Print("Hello, my name is Saldina. I am a Software Engineer.");
     myPrinter.Print("Hello, my name is Saldina. I am a Software Engineer.");
-
+    cout << "melik" << endl;
     cout << "Melik" << endl; 
     }
     catch (const char * txtException ) {
